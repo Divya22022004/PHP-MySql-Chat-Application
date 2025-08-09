@@ -63,11 +63,6 @@ It provides user authentication, friend search, profile management, and instant 
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/your-username/php-mysql-chat-app.git
-# MyChat – PHP MySQL Chat Application
-
-A real-time, web-based chat application built using **PHP**, **MySQL**, **CSS**, **Bootstrap**, and **JavaScript**.
-
----
 
 ## 📂 Project Setup
 
